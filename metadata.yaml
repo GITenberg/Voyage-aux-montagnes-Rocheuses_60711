@@ -1,0 +1,27 @@
+_repo: Voyage-aux-montagnes-Rocheuses_60711
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smet, Pierre-Jean de
+    aliases:
+    - DeSmet, Pierre-Jean
+    - Blackrobe
+    - De Smet, Pierre-Jean
+    - De Smet, Father (Pierre-Jean)
+    birthdate: 1801
+    deathdate: 1873
+    gutenberg_agent_id: '44907'
+    url: http://www.gutenberg.org/2009/agents/44907
+description: ''
+gutenberg_issued: '2019-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60711'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage aux montagnes Rocheuses
+url: http://www.gutenberg.org/ebooks/60711
